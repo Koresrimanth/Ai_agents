@@ -1,0 +1,7 @@
+streamlit
+langchain
+chromadb
+openai
+python-dotenv
+PyPDF2
+unstructured
